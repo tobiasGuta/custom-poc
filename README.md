@@ -2,3 +2,5 @@
 
 
 # Erlang-OTP-CVE-2025-32433
+
+# Tomcat: CVE-2024-50379
